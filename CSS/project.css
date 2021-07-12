@@ -14,3 +14,9 @@ body {
 footer{
     background-color: lightgoldenrodyellow;
 }
+
+#main {
+    border: solid 1px black;
+    padding: 5px;
+    border-color: blue;
+}
